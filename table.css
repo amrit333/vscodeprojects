@@ -1,0 +1,22 @@
+*{
+    margin: auto;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+body{
+    background-color: brown;
+}
+table{
+    margin-top: 230px;
+    padding: 30px;
+    border-radius: 30px;
+    color: brown;
+    background-color: rgb(223, 226, 43);
+
+    width: 60%;
+    border: 2px dotted black;
+}
+th,td{
+    background-color: aquamarine;
+    border: 2px solid black;
+}
